@@ -1,4 +1,3 @@
 # Demo
 
-some plain text
-another line
+some plain text!
